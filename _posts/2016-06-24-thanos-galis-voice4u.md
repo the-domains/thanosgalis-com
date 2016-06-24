@@ -10,14 +10,14 @@ description: >-
   versatility and trustworthy, one-on-one delivery style –from warm and
   endearing to confident and commanding—Thanos will get your message across with
   both efficiency and believability.
-datePublished: '2016-06-24T13:34:53.304Z'
-dateModified: '2016-06-24T13:34:51.638Z'
+datePublished: '2016-06-24T13:35:45.372Z'
+dateModified: '2016-06-24T13:35:44.373Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-24-thanos-galis-voice4u.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: thanos-galis-voice4u/index.html
 _type: Article
 
