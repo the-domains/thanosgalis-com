@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-24T13:13:17.568Z'
-dateModified: '2016-06-24T13:13:11.398Z'
+datePublished: '2016-06-24T13:15:48.118Z'
+dateModified: '2016-06-24T13:13:49.743Z'
 title: >-
   Thanos Galis is dedicated to meeting and exceeding your expectations of
   professional male voiceover talent. His deep textured voice is known for its
