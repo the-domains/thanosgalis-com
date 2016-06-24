@@ -10,8 +10,8 @@ description: >-
   versatility and trustworthy, one-on-one delivery style –from warm and
   endearing to confident and commanding—Thanos will get your message across with
   both efficiency and believability.
-datePublished: '2016-06-24T13:35:45.372Z'
-dateModified: '2016-06-24T13:35:44.373Z'
+datePublished: '2016-06-24T13:45:35.601Z'
+dateModified: '2016-06-24T13:45:26.870Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-24-thanos-galis-voice4u.md
@@ -24,4 +24,4 @@ _type: Article
 ---
 Thanos Galis is dedicated to meeting and exceeding your expectations of professional male voiceover talent. His deep textured voice is known for its versatility and trustworthy, one-on-one delivery style --from warm and endearing to confident and commanding---Thanos will get your message across with both efficiency and believability.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6df01139-3be0-4427-ac3e-bd83f8c31287.jpg)
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c10e4b78-38d7-44b5-b5f7-e609dc130145.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/572d254e-e706-417d-ac7a-6f57d0ac53a0.jpg)
