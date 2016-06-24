@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-24T12:16:21.420Z'
-dateModified: '2016-06-24T12:15:11.220Z'
+datePublished: '2016-06-24T13:07:40.238Z'
+dateModified: '2016-06-24T13:02:19.358Z'
 title: >-
   Thanos Galis is dedicated to meeting and exceeding your expectations of
   professional male voiceover talent. His deep textured voice is known for its
@@ -21,11 +21,11 @@ title: >-
   accents. Please listen for yourself and contact Thanos Galis now to inquire
   about his affordable voice talent rates, and to request an audition. 
 author: []
-authors: []
-publisher: null
-starred: false
 sourcePath: >-
   _posts/2016-06-24-thanos-galis-is-dedicated-to-meeting-and-exceeding-your-expe.md
+authors: []
+publisher: null
+starred: true
 url: thanos-galis-is-dedicated-to-meeting-and-exceeding-your-expe/index.html
 _type: Article
 
