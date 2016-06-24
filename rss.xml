@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[voice4u]]></title>
         <description><![CDATA[voice4u]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thanosgalis-com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 24 Jun 2016 13:19:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 24 Jun 2016 13:20:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thanosgalis-com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Thanos Galis / Voice4U</p>]]></description>
-            <link>undefinedthanos-galis-voice4u/index.html</link>
+            <link>https://thegrid.ai/thanosgalis-com/thanos-galis-voice4u/index.html</link>
             <guid isPermaLink="false">c1a203a7-1334-4c19-9307-77b2e75593bb</guid>
-            <pubDate>Fri, 24 Jun 2016 13:19:43 GMT</pubDate>
+            <pubDate>Fri, 24 Jun 2016 13:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
