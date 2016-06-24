@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Thanos Galis / Voice4U
-datePublished: '2016-06-24T13:21:26.616Z'
-dateModified: '2016-06-24T13:21:23.040Z'
+datePublished: '2016-06-24T13:22:36.749Z'
+dateModified: '2016-06-24T13:22:00.631Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-24-thanos-galis-voice4u.md
 authors: []
 publisher: null
-starred: false
+starred: true
 url: thanos-galis-voice4u/index.html
 _type: Article
 
