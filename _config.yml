@@ -1,0 +1,28 @@
+name: thanosgalis.com
+favicon: null
+layout_spectrum: 0.1935891853645444
+typography_spectrum: 0.6080941290128976
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.9747667682822794
+  lightness: 0.12548121344298124
+  saturation: 0.5467726453207433
+  rhythmicContrast: 0.2649589020293206
+purpose: []
